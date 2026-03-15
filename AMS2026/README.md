@@ -9,7 +9,7 @@ Three challenges + design evaluation. Total: 125 possible points.
 | Challenge | Points | Status |
 |---|---|---|
 | Balance Beam | 15 | 🔧 In Progress |
-| Manual Maze | 20 | 🔧 In Progress |
+| Manual Maze | 20 | ✅ Code Ready |
 | Autonomous Maze | 30 | ✅ Code Ready |
 | Design Evaluation | 60 | 🔧 In Progress |
 
